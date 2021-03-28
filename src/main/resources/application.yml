@@ -1,2 +1,2 @@
-port: 8024
-server: ''
+server:
+  port: 8024
